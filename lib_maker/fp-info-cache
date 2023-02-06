@@ -1,4 +1,4 @@
-20841450180503182
+20843125885510734
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87140,8 +87140,15 @@ NEO-6M_Module
 
 
 0
+4
+4
+footprint
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
 0
-0
+86
+43
 footprint
 SIM800L
 
