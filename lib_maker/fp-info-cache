@@ -1,4 +1,4 @@
-20843125885510734
+20844772285532550
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87156,3 +87156,10 @@ SIM800L
 0
 12
 12
+footprint
+USB4105-GF-A
+
+
+0
+20
+17

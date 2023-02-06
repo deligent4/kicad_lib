@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "symbol")(type "KiCad")(uri "E:/kicad_lib/symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "E:/kicad_lib/USB4105-GF-A-USBC-conn/USB4105-GF-A.kicad_sym")(options "")(descr ""))
 )
