@@ -34,4 +34,9 @@
   (pad "2" thru_hole circle (at -16 -1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp cb264895-9405-4685-9795-bef6308bd469))
   (pad "3" thru_hole circle (at -16 1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp d5de7aca-2384-494c-9a3c-16307eb2bbaa))
   (pad "4" thru_hole circle (at -16 3.81) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 0412bf9f-7c92-459f-8c08-6caa50f156cf))
+  (model "E:/kicad_lib/3d_model/NEO_6M_MODULE.STEP"
+    (offset (xyz 17.5 0.8 -19.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
