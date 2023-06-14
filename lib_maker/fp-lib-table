@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "footprint")(type "KiCad")(uri "E:/kicad_lib/footprint.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "footprint")(type "KiCad")(uri "E:/kicad/kicad_lib/footprint.pretty")(options "")(descr ""))
 )
