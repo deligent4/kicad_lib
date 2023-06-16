@@ -1,4 +1,4 @@
-21678828406094157
+21678902723458366
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90195,26 +90195,12 @@ varistor
 2
 2
 footprint
-ESP800L_SIM_MODULE
-
-
-0
-8
-8
-footprint
 NEO-6M_Module
 
 
 0
 4
 4
-footprint
-PQFN50P450X300X100-16N
-
-
-0
-16
-16
 footprint
 RPi_Pico_SMD_TH
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
@@ -90230,12 +90216,26 @@ SIM800L
 12
 12
 footprint
+SIM800L_MODULE
+
+
+0
+8
+8
+footprint
 USB4105-GF-A
 
 
 0
 20
 17
+footprint
+VQFN-20_P0.5_4.5x3.5mm
+
+
+0
+21
+21
 footprint
 microSD_HC_Hirose_DM3AT-SF-PEJM5
 Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
